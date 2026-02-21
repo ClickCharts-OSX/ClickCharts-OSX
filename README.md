@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/338794/m/clickcharts-screenshot.png?v=1660904567" alt="ClickCharts screenshot"/>
+  <img src="https://mac-cdn.softpedia.com/screenshots/ClickCharts-Diagram-Flowchart-Software_6.jpg" alt="ClickCharts screenshot"/>
 </p>
 
 ---
@@ -37,12 +37,6 @@ Software architecture through UML diagrams creates software design diagrams docu
 - <a href="#">Visual</a> communication conveying information clearly diagrams charts
 - Drag-and-drop <a href="#">interface</a> simplifying diagram creation intuitive
 - <a href="#">Professional</a> diagramming supporting business technical documentation
-
----
-
-<p align="center">
-  <img src="https://mac-cdn.softpedia.com/screenshots/ClickCharts-Diagram-Flowchart-Software_6.jpg" alt="ClickCharts screenshot"/>
-</p>
 
 ---
 
